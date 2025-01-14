@@ -1,5 +1,5 @@
-# nord-chernobyl
-A collection of images from the Chernobyl exclusion zone sourced from unsplash and modified through [ImageGoNord](https://ign.schrodinger-hat.it/).
+# Nord Stalker Wallpapers
+A collection of images from the Chernobyl exclusion zone or otherwise giving S.T.A.L.K.E.R. vibes sourced from unsplash and modified through [ImageGoNord](https://ign.schrodinger-hat.it/).
 
 ## Previews
 | <img src = "Wallpapers/nord-bob-jessica-christian-unsplash.png" width = 200> | <img src = "Wallpapers/nord-bus-stop-gerhard-reus-unsplash.png" width = 200> | <img src = "Wallpapers/nord-chernobyl-house-viktor-hesse-unsplash.png" width = 200> | <img src = "Wallpapers/nord-cooling-tower-base-kato-blackmore-unsplash.png" width = 200> |
