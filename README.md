@@ -1,5 +1,4 @@
 # Nord Stalker Wallpapers
-<<<<<<< HEAD
 A collection of images from the Chernobyl exclusion zone or otherwise giving S.T.A.L.K.E.R. vibes sourced from unsplash and modified through [ImageGoNord](https://ign.schrodinger-hat.it/). Images are attributed in filename and contain more attribution data in the individual picture EXIF data. Attribution also exported to attribution.md.
 
 ## Previews
