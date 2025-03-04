@@ -1,5 +1,5 @@
 # Nord Stalker Wallpapers
-A collection of images from the Chernobyl exclusion zone or otherwise giving S.T.A.L.K.E.R. vibes sourced from unsplash and modified through [ImageGoNord](https://ign.schrodinger-hat.it/). Images are attributed in filename and contain more attribution data in the individual picture EXIF data.
+A collection of images from the Chernobyl exclusion zone or otherwise giving S.T.A.L.K.E.R. vibes sourced from unsplash and modified through [ImageGoNord](https://ign.schrodinger-hat.it/). Images are attributed in filename and contain more attribution data in the individual picture EXIF data. Attribution also exported to attribution.md.
 
 ## Previews
 | <img src = "Wallpapers/nord-abandoned-viktor-hesse-unsplash.png" width = 200> | <img src = "Wallpapers/nord-bob-jessica-christian-unsplash.png" width = 200> | <img src = "Wallpapers/nord-bridge-of-death-mads-eneqvist-unsplash.png" width = 200> | <img src = "Wallpapers/nord-broken-relays-peter-lam-ch-unsplash.png" width = 200> |
